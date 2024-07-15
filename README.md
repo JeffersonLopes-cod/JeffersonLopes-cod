@@ -36,7 +36,7 @@ I'm a physical education teacher passionate about technology, currently explorin
 ### Other Tools
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-  ![Visual Studio Code](https://profilinator.rishav.dev/skills-assets/visualstudio_code.png) Visual Studio Code (VS Code)
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code.png" alt="VSCode" height="50" />
 </div>
 
 ---
