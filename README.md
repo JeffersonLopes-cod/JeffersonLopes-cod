@@ -40,4 +40,4 @@ I'm a physical education teacher passionate about technology, currently explorin
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jefferson-lopes-silva/) or check out my revitalized [GitHub](https://github.com/jefflopes).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jefferson-lopes-silva/) 
